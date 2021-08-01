@@ -1,6 +1,6 @@
 # Google Clone
 
-Built with [React](https://reactjs.org/)
+Built with [React](https://reactjs.org/)\
 Uses Google Custom Search API to fetch requests
 
 ### `npm install`
