@@ -61,7 +61,8 @@
     margin: 2rem 0;
 }
 
-.searchPage__result a:nth-child(1) {
+.searchPage__result a:nth-child(1),
+.searchPage__result a:nth-child(1):visited {
     font-size: 14px;
     color: #202124;
     text-decoration: none;
